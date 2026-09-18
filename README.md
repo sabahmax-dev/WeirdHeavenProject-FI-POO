@@ -10,3 +10,5 @@ Hello world! we are the team known as "The Laplace's Disturbeds" (that joke is f
 The project consist in a Doodle Jump game, but, we gave it a little... magic touch?. The implementation is kinda basic, it was our first time implementing a videogame.
 
 We hope you enjoy! :D
+
+Controls: left and right arrow keys.
